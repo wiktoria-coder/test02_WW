@@ -1,0 +1,1 @@
+print("Dzisiejsza data to 21.03.2025r.")
